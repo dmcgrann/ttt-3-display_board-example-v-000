@@ -3,5 +3,5 @@ def display_board
   cell = "   "
   cell_row = "   |   |   "
   line = "-----------"
-  return "cell_row" \n "line"
+  return #{cell_row} \n #{line} 
 end
