@@ -1,4 +1,7 @@
 def display_board
   puts "Tic Tac Toe Baord"
 end
-cell = "   "
+
+def display_board
+  cell = "   "
+end
