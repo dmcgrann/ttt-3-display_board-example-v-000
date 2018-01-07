@@ -1,4 +1,4 @@
 cell = "   "
 def display_board
-  puts "Tic Tac Toe Baord"
+  puts "Tic Tac Toe Board"
 end
